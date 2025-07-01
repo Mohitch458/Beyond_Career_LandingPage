@@ -37,3 +37,6 @@ A modern web project to help users manage their career journey.
 ## License
 
 This project is for personal or educational use. For commercial use, please contact the author.
+
+**## Preview of the website **
+https://beyond-career-landing-page-lake.vercel.app/
